@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS de Andrés S. Pereira Ch. modificado el 30/11/18 */
+body{
+    background-color: lightblue;
+    font-family: sans-serif;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase
+}
+h2{
+    background: hsl(198, 50%, 50%);
+}
+h3{
+    background: hsl(198, 50%, 65%);
+    color: white;
+}
+pre{
+    background: white;
+    font-weight: bold;
+}
+address{
+    text-align: right;
+    font-style: normal;
+    font-family: serif;
+}
+blockquote{
+    font-style: oblique;
+}
